@@ -1,5 +1,5 @@
 # Smart Warm Air Regulator
-Instrumentation Project — Amirkabir University of Technology (AUT)
+Instrumentation Project 
 
 An embedded control system designed to monitor ambient temperature and regulate warm airflow automatically using wireless communication and feedback logic.
 
