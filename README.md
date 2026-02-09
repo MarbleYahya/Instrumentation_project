@@ -114,5 +114,5 @@ Using a mobile application such as **Bluetooth Serial Terminal**, the user can:
 
 ---
 
-## 📂 Repository Structure (example)
+
 
